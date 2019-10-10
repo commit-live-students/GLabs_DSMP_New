@@ -1,6 +1,6 @@
 # Welcome to GreyAtom !
 
-This is the GreyAtom repository for the Full Stack Data Science Program. In here you'll find the course curriculum comprising of 5 modules: 
+This is the GreyAtom repository for the Data Science Masters Program. In here you'll find the course curriculum comprising of 5 modules: 
 
 - Python Data Science Toolkit
 - Foundations of Machine Learning
