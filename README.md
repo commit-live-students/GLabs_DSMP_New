@@ -6,7 +6,7 @@ This is the GreyAtom repository for the Full Stack Data Science Program. In here
 - Foundations of Machine Learning
 - Supervised Machine Learning
 - More Supervised & Unsupervised ML
-- Text Analytics
+- Natural Language Processing
 
 Every module has a fixed number of concepts and inside every concept, you'll find the session content for the session reserved for that particular concept. This session content consists of :
 
